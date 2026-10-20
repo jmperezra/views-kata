@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="vertical_spacing">16dp</dimen>
+    <dimen name="horizontal_spacing">16dp</dimen>
+
+    <dimen name="image_verysmall_size">16dp</dimen>
     <dimen name="image_small_size">128dp</dimen>
+    <dimen name="image_big_size">128dp</dimen>
     <dimen name="box_size">64dp</dimen>
+
+
+    <!-- Text Size -->
+    <dimen name="text_large">24sp</dimen>
 </resources>

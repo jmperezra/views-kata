@@ -7,4 +7,18 @@
     <string name="label_apple_price">0,70€</string>
     <string name="label_apple_unit">/ud.</string>
     <string name="label_add_cart">Añadir al carrito</string>
+    <string name="label_date">22/06/2026 Martes</string>
+    <string name="label_title">Gooble Turkey</string>
+    <string name="label_location">Madrid, España</string>
+    <string name="label_interested">Interested</string>
+    <string name="label_car">Ahorro Carro</string>
+    <string name="label_account">Cuenta bancaria para el depósito</string>
+    <string name="label_number_account">ES32 1234 1234 1235</string>
+    <string name="label_start_date">Fecha de Inicio</string>
+    <string name="label_end_date">Fecha de Fin</string>
+    <string name="label_state">Estado del certificado</string>
+    <string name="label_upgrade">Renovar Certificado</string>
+    <string name="label_about">Sobre Certificados</string>
+    <string name="label_details">Detalles Principales</string>
+    <string name="label_monto">Monto Invertido</string>
 </resources>
