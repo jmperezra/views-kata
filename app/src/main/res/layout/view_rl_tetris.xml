@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        <TextView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/im_14"
+            android:layout_alignBottom="@id/im_1"
+            android:background="@color/green"
+        />
+        <TextView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/im_15"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="32dp"
+            />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        <TextView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/im_1"
+            android:layout_alignParentBottom="true"
+            android:background="@color/green" />
+
+
+        <TextView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/im_2"
+            android:layout_alignParentBottom="true"
+            android:layout_toEndOf="@id/im_1"
+            android:background="@color/green" />
+
+        <TextView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/im_3"
+            android:layout_alignParentBottom="true"
+            android:layout_toEndOf="@id/im_2"
+            android:background="@color/orange" />
+
+
+        <TextView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/im_4"
+            android:layout_alignParentBottom="true"
+            android:layout_toEndOf="@id/im_3"
+            android:background="@color/orange" />
+
+        <TextView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/im_5"
+            android:layout_alignParentBottom="true"
+            android:background="@color/green"
+            android:layout_toEndOf="@id/im_4"/>
+
+        <TextView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/im_6"
+            android:layout_alignParentBottom="true"
+            android:background="@color/green"
+            android:layout_toEndOf="@id/im_5"/>
+
+        <TextView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/im_7"
+            android:layout_alignParentBottom="true"
+            android:background="@color/blue"
+            android:layout_toEndOf="@id/im_6"/>
+
+        <TextView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/im_8"
+            android:layout_alignParentBottom="true"
+            android:background="@color/green"
+            android:layout_toEndOf="@id/im_7"/>
+
+        <TextView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/im_9"
+            android:layout_alignParentBottom="true"
+            android:background="@color/red"
+            android:layout_toEndOf="@id/im_8"/>
+
+        <TextView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/im_10"
+            android:layout_alignParentBottom="true"
+            android:background="@color/red"
+            android:layout_toEndOf="@id/im_9"/>
+
+        <TextView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/im_11"
+            android:layout_alignParentBottom="true"
+            android:background="@color/green"
+            android:layout_toEndOf="@id/im_10"/>
+
+        <TextView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/im_12"
+            android:layout_alignParentBottom="true"
+            android:background="@color/white"
+            android:layout_toEndOf="@id/im_11"/>
+        <TextView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/im_13"
+            android:layout_alignParentBottom="true"
+            android:background="@color/green"
+            android:layout_toEndOf="@id/im_12"/>
+    />
+
+</RelativeLayout>
