@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ViewsKata</string>
+    <string name="rl_label_surname">Apellido 1</string>
+    <string name="rl_label_surname_2">Apellido 2</string>
+    <string name="label_apple_red">Manzana roja\ndulce</string>
+    <string name="label_apple_type">Pieza 260g aprox.</string>
+    <string name="label_apple_price">0,70€</string>
+    <string name="label_apple_unit">/ud.</string>
+    <string name="label_add_cart">Añadir al carrito</string>
 </resources>

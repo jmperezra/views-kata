@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <RelativeLayout
+        android:id="@+id/box1"
+        android:layout_alignParentBottom="true"
+        android:layout_width="@dimen/box_size"
+        android:layout_height="@dimen/box_size"
+        android:background="@color/red"/>
+
+    <RelativeLayout
+        android:id="@+id/box2"
+        android:layout_alignParentBottom="true"
+        android:layout_toEndOf="@id/box1"
+        android:layout_width="@dimen/box_size"
+        android:layout_height="@dimen/box_size"
+        android:background="@color/yellow"/>
+
+    <RelativeLayout
+        android:id="@+id/box3"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@id/box3"
+        android:layout_width="@dimen/box_size"
+        android:layout_height="@dimen/box_size"
+        android:background="@color/orange"/>
+
+</RelativeLayout>
